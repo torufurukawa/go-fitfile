@@ -14,9 +14,9 @@ TBD
 
 TBD
 
-## Contribution
+## Development
 
-TBD
+go-fitfile is implemented with referring FIT SDK Release 14.10.
 
 ## License
 
