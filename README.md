@@ -16,7 +16,11 @@ TBD
 
 ## Development
 
-go-fitfile is implemented with referring FIT SDK Release 14.10.
+Makefile contains development tasks.
+
+- Based on "FIT SDK Release 14.10."
+- GNU Make 3.81
+- watch 0.2.0
 
 ## License
 
